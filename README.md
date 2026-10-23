@@ -21,6 +21,7 @@ This project uses the Kaggle Video Game Sales dataset (16,000+ games) to explore
 - **Global Sales by Genre:** Action and Sports lead the charts.
 
 ## 🔍 Key Insights (Page 2)
+![Key Insights Page](insights.png)
 1. **North America Dominance:** NA accounts for nearly 50% of global sales.
 2. **Nintendo's Reign:** Nintendo is the undisputed top publisher, with double the sales of its next competitor (Electronic Arts).
 3. **The PS2 Era:** The PS2 is the highest-selling platform of all time.
