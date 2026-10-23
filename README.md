@@ -2,7 +2,7 @@
 
 An interactive, 2-page Power BI dashboard analyzing global video game sales from 1980 to 2020. 
 
-![Dashboard Preview](video_games_dashboard)
+![Dashboard Preview](video_games_dashboard.jpeg)
 
 ## 📌 Project Overview
 This project uses the Kaggle Video Game Sales dataset (16,000+ games) to explore market trends, top publishers, and regional sales distributions. It features a main dashboard for visualization and a second page dedicated to key business insights.
